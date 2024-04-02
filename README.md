@@ -1,6 +1,6 @@
 Made by
-krish (Developer)
-krrish katyal(Product manager)
-kanish(Tester)
-harsh(Developer)
+Krish (Developer)
+Krrish katyal(Product manager)
+Kanish(Tester)
+Harsh(Developer)
 
