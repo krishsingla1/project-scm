@@ -1,5 +1,5 @@
 Made by
-krish
-krrish katyal
-kanish
-harsh
+krish (Developer)
+krrish katyal(Product manager)
+kanish(Tester)
+harsh(Developer)
